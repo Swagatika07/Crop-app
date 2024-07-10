@@ -1,7 +1,8 @@
 # Output Screen
 # Home Screen
 
-![crop-app-home](https://github.com/Swagatika07/Crop-app/assets/99073952/ee168aab-caa1-455f-a910-8f720a658753)
+![image](https://github.com/Swagatika07/Crop-app/assets/99073952/689b6aec-a658-4dc4-9cf1-2ea06a0e9771)
+
 
 
 # Getting Started with Create React App
