@@ -75,7 +75,7 @@ const Home = () => {
           justifyContent: "space-between",
         }}
       >
-        <h2>Your grain prices : Feed Wheat</h2>
+        <h2>Your grain prices :</h2>
         <Button
           variant="contained"
           sx={{ float: "right", marginBottom: 5,background:"#00615D", borderRadius:10,fontSize: "18px",fontWeight: "bold",padding:1.5 }}
@@ -101,7 +101,7 @@ const Home = () => {
                 align="center"
                 style={{ color: "#00615D", fontSize: "20px",fontWeight:"bold" }}
               >
-                Price
+                Price (₹)
               </TableCell>
               <TableCell
                 align="right"
