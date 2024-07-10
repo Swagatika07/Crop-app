@@ -1,3 +1,10 @@
+# Output Screen
+# Home Screen
+
+![image](https://github.com/Swagatika07/Crop-app/assets/99073952/689b6aec-a658-4dc4-9cf1-2ea06a0e9771)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
