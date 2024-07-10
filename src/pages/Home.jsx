@@ -129,10 +129,10 @@ const Home = () => {
                 <TableCell component="th" scope="row" sx={{fontSize:"16px"}}>
                   {`${
                     row?.startDate
-                      ? dayjs(row.startDate).format("MMM YY")
+                      ? dayjs(row.startDate).format("DD MMM YY")
                       : "N/A"
                   } - ${
-                    row?.endDate ? dayjs(row.endDate).format("MMM YY") : "N/A"
+                    row?.endDate ? dayjs(row.endDate).format("DD MMM YY") : "N/A"
                   }`}
                 </TableCell>
                 <TableCell align="left" sx={{fontSize:"16px"}}>{row?.cropYear}</TableCell>
